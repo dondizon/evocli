@@ -1,6 +1,6 @@
 # evocli
 
-**evocli** is an app for sending API commands to the EMS 2.0.0 from the command line. The EMS may be on a local or on a remote server. Commands are sent via HTTP.
+**evocli** is an app for sending API commands to the EMS 2.0.0 from the command line. The EMS may be on a local or a remote server. Commands are sent via HTTP.
 
 ## Installation
 
