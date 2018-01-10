@@ -6,7 +6,7 @@
 
 1. EMS 2.0.0 or later is required to run with this code. EMS 1.7.1 or earlier is not yet supported.
    - [Installing EMS 2.0.0 on Windows](http://docs.evostream.com/2.0/home_quickstartguidewindows.html)
-   - [Installing of EMS 2.0.0 on Linux](http://docs.evostream.com/2.0/home_quickstartguidelinux.html)
+   - [Installing EMS 2.0.0 on Linux](http://docs.evostream.com/2.0/home_quickstartguidelinux.html)
 
 1. Go language is required to build the binary or run from source.
    - [Installation/usage of Go on Windows/Linux/macOS](http://golang.org/dl)
