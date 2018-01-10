@@ -39,7 +39,7 @@
 
 1. Build `evocli`
 
-   Note: You can skip this step if the pre-built binary was downloaded during [installation](https://github.com/EvoStream/evostream_addons/tree/master/go_samples/evocli/README.md#installation).
+   Note: You can skip this step if the pre-built binary was downloaded during [installation](https://github.com/dondizon/evocli/tree/master/go_samples/evocli/README.md#installation).
 
    After cloning the `evostream_addons` source code from GitHub to your local drive, go to the `evocli` directory and build the binary.
 
@@ -279,11 +279,11 @@ evocli.exe listconfig
 
 - The source code is provided for demonstration purposes only. It can be found on GitHub:
 
-  [https://github.com/EvoStream/evostream_addons/tree/master/go_samples/evocli](https://github.com/EvoStream/evostream_addons/tree/master/go_samples/evocli)
+  [https://github.com/dondizon/evocli](https://github.com/dondizon/evocli)
 
 ## Contributing
 
-1. Fork it ( [https://github.com/EvoStream/evostream_addons/fork](https://github.com/EvoStream/evostream_addons/fork) )
+1. Fork it ( [https://github.com/dondizon/evocli/fork](https://github.com/dondizon/evocli/fork) )
 1. Create your feature branch (git checkout -b my-new-feature)
 1. Commit your changes (git commit -am 'Add some feature')
 1. Push to the branch (git push origin my-new-feature)
