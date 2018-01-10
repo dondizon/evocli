@@ -8,13 +8,8 @@
    - [Installing EMS 2.0.0 on Windows](http://docs.evostream.com/2.0/home_quickstartguidewindows.html)
    - [Installing of EMS 2.0.0 on Linux](http://docs.evostream.com/2.0/home_quickstartguidelinux.html)
 
-1. Go language is required to build the binary or run from source (optional if next step is done).
+1. Go language is required to build the binary or run from source.
    - [Installation/usage of Go on Windows/Linux/macOS](http://golang.org/dl)
-
-1. Alternatively, instead of installing Go to build the binary, a pre-built binary can be downloaded from here:
-   - [For Ubuntu 16.04 64-bit : evocli-ubuntu1604-amd64.tgz](https://github.com/EvoStream/evostream_addons/tree/master/go_samples/evocli/releases/evocli-ubuntu1604-amd64.tgz)
-   - [For Windows 10 64-bit : evocli-windows10-amd64.zip](https://github.com/EvoStream/evostream_addons/tree/master/go_samples/evocli/releases/evocli-windows10-amd64.zip)
-   - [For OSX 10 64-bit : evocli-osx10-amd64.tgz](https://github.com/EvoStream/evostream_addons/tree/master/go_samples/evocli/releases/evocli-osx10-amd64.tgz)
 
 ## Setup
 
@@ -42,7 +37,7 @@
    - [Starting EMS 2.0.0 on Windows](http://docs.evostream.com/2.0/home_quickstartguidewindows.html)
    - [Starting EMS 2.0.0 on Linux](http://docs.evostream.com/2.0/home_quickstartguidelinux.html)
 
-1. Build `evocli` (optional if the binary was downloaded)
+1. Build `evocli`
 
    Note: You can skip this step if the pre-built binary was downloaded during [installation](https://github.com/EvoStream/evostream_addons/tree/master/go_samples/evocli/README.md#installation).
 
